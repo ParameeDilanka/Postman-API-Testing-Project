@@ -14,15 +14,6 @@ This project contains a sample Postman collection designed to test common CRUD o
 - 🚀 Collection runner & automation compatibility (Newman-ready)
 
 
-## 📁 Folder Structure
-
-
-📦 api-testing-postman/
- ┣ 📄 MyAPI.postman_collection.json
- ┣ 📄 MyEnvironment.postman_environment.json
- ┗ 📄 README.md
-
-
 ## ⚙️ How to Use
 
 1. **Clone this repository:**
@@ -41,7 +32,6 @@ This project contains a sample Postman collection designed to test common CRUD o
      newman run MyAPI.postman_collection.json -e MyEnvironment.postman_environment.json
      ```
 
-
 ## 🛠 Features Demonstrated
 
 | Feature                  | Description                                                                 |
@@ -52,7 +42,6 @@ This project contains a sample Postman collection designed to test common CRUD o
 | Test Scripts             | JavaScript assertions using `pm` API                                        |
 | Environment Variables    | Reusability across different test setups                                    |
 | Response Validations     | Status code, response time, JSON schema validation                          |
-
 
 
 ## 📃 License
