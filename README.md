@@ -3,6 +3,7 @@
 Welcome to my Postman API Testing project! This repository showcases my hands-on experience with API testing using Postman. It includes a well-organized collection of REST API requests, environment variables, test scripts, and documentation — all designed to demonstrate robust API testing workflows.
 
 
+
 ## 📌 Project Overview
 
 This project contains a sample Postman collection designed to test common CRUD operations on a RESTful API. It demonstrates:
@@ -12,6 +13,7 @@ This project contains a sample Postman collection designed to test common CRUD o
 - 🧠 Test scripts and pre-request scripting (JavaScript)
 - 📄 Documentation using Postman's built-in features
 - 🚀 Collection runner & automation compatibility (Newman-ready)
+
 
 
 ## ⚙️ How to Use
@@ -32,6 +34,7 @@ This project contains a sample Postman collection designed to test common CRUD o
      newman run MyAPI.postman_collection.json -e MyEnvironment.postman_environment.json
      ```
 
+
 ## 🛠 Features Demonstrated
 
 | Feature                  | Description                                                                 |
@@ -42,6 +45,7 @@ This project contains a sample Postman collection designed to test common CRUD o
 | Test Scripts             | JavaScript assertions using `pm` API                                        |
 | Environment Variables    | Reusability across different test setups                                    |
 | Response Validations     | Status code, response time, JSON schema validation                          |
+
 
 
 ## 📃 License
