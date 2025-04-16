@@ -48,6 +48,20 @@ This project contains a sample Postman collection designed to test common CRUD o
 
 
 
+## 🌐 API Under Test
+
+This project uses the public API from [ReqRes](https://reqres.in/), a hosted REST API for testing and prototyping.
+
+### Example Endpoints Used
+
+- `GET /api/users?page=2`
+- `POST /api/users`
+- `PUT /api/users/2`
+- `DELETE /api/users/2`
+
+ReqRes provides realistic, dummy user data for testing RESTful APIs and supports all major HTTP methods.
+
+
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE).
