@@ -1,0 +1,26 @@
+[
+  {
+    "id": 45,
+    "email": "abc@gmail.com",
+    "first_name": "Kamal",
+    "last_name": "Perera"
+  },
+  {
+    "id": 67,
+    "email": "abfc@gmail.com",
+    "first_name": "Amal",
+    "last_name": "Sunimal"
+  },
+  {
+    "id": 66,
+    "email": "abcc@gmail.com",
+    "first_name": "Nimal",
+    "last_name": "Bandara"
+  },
+  {
+    "id": 77,
+    "email": "abcb@gmail.com",
+    "first_name": "Sunil",
+    "last_name": "Fernando"
+  }
+]
